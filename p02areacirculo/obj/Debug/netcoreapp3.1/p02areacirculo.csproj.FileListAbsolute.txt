@@ -1,0 +1,12 @@
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p02areacirculo/bin/Debug/netcoreapp3.1/p02areacirculo.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p02areacirculo/bin/Debug/netcoreapp3.1/p02areacirculo.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p02areacirculo/bin/Debug/netcoreapp3.1/p02areacirculo.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p02areacirculo/bin/Debug/netcoreapp3.1/p02areacirculo.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p02areacirculo/bin/Debug/netcoreapp3.1/p02areacirculo.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p02areacirculo/obj/Debug/netcoreapp3.1/p02areacirculo.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p02areacirculo/obj/Debug/netcoreapp3.1/p02areacirculo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p02areacirculo/obj/Debug/netcoreapp3.1/p02areacirculo.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p02areacirculo/obj/Debug/netcoreapp3.1/p02areacirculo.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p02areacirculo/obj/Debug/netcoreapp3.1/p02areacirculo.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p02areacirculo/obj/Debug/netcoreapp3.1/p02areacirculo.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p02areacirculo/obj/Debug/netcoreapp3.1/p02areacirculo.genruntimeconfig.cache

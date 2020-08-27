@@ -1,0 +1,12 @@
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p04pagatrabajador/bin/Debug/netcoreapp3.1/p04pagatrabajador.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p04pagatrabajador/bin/Debug/netcoreapp3.1/p04pagatrabajador.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p04pagatrabajador/bin/Debug/netcoreapp3.1/p04pagatrabajador.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p04pagatrabajador/bin/Debug/netcoreapp3.1/p04pagatrabajador.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p04pagatrabajador/bin/Debug/netcoreapp3.1/p04pagatrabajador.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p04pagatrabajador/obj/Debug/netcoreapp3.1/p04pagatrabajador.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p04pagatrabajador/obj/Debug/netcoreapp3.1/p04pagatrabajador.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p04pagatrabajador/obj/Debug/netcoreapp3.1/p04pagatrabajador.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p04pagatrabajador/obj/Debug/netcoreapp3.1/p04pagatrabajador.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p04pagatrabajador/obj/Debug/netcoreapp3.1/p04pagatrabajador.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p04pagatrabajador/obj/Debug/netcoreapp3.1/p04pagatrabajador.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p04pagatrabajador/obj/Debug/netcoreapp3.1/p04pagatrabajador.genruntimeconfig.cache

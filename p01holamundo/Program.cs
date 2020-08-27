@@ -7,6 +7,7 @@ namespace p01holamundo
         static void Main(string[] args)
         {
             Console.WriteLine("Hola Mundo Cruel");
+            Console.WriteLine("va de nuevo");
         
 
         }

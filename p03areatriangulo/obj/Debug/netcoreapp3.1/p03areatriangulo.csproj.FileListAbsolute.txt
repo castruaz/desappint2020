@@ -1,0 +1,12 @@
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p03areatriangulo/bin/Debug/netcoreapp3.1/p03areatriangulo.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p03areatriangulo/bin/Debug/netcoreapp3.1/p03areatriangulo.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p03areatriangulo/bin/Debug/netcoreapp3.1/p03areatriangulo.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p03areatriangulo/bin/Debug/netcoreapp3.1/p03areatriangulo.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p03areatriangulo/bin/Debug/netcoreapp3.1/p03areatriangulo.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p03areatriangulo/obj/Debug/netcoreapp3.1/p03areatriangulo.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p03areatriangulo/obj/Debug/netcoreapp3.1/p03areatriangulo.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p03areatriangulo/obj/Debug/netcoreapp3.1/p03areatriangulo.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p03areatriangulo/obj/Debug/netcoreapp3.1/p03areatriangulo.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p03areatriangulo/obj/Debug/netcoreapp3.1/p03areatriangulo.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p03areatriangulo/obj/Debug/netcoreapp3.1/p03areatriangulo.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p03areatriangulo/obj/Debug/netcoreapp3.1/p03areatriangulo.genruntimeconfig.cache
