@@ -1,0 +1,12 @@
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p05ciclos/obj/Debug/netcoreapp3.1/p05ciclos.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p05ciclos/obj/Debug/netcoreapp3.1/p05ciclos.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p05ciclos/obj/Debug/netcoreapp3.1/p05ciclos.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p05ciclos/obj/Debug/netcoreapp3.1/p05ciclos.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p05ciclos/bin/Debug/netcoreapp3.1/p05ciclos.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p05ciclos/bin/Debug/netcoreapp3.1/p05ciclos.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p05ciclos/bin/Debug/netcoreapp3.1/p05ciclos.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p05ciclos/bin/Debug/netcoreapp3.1/p05ciclos.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p05ciclos/bin/Debug/netcoreapp3.1/p05ciclos.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p05ciclos/obj/Debug/netcoreapp3.1/p05ciclos.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p05ciclos/obj/Debug/netcoreapp3.1/p05ciclos.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p05ciclos/obj/Debug/netcoreapp3.1/p05ciclos.genruntimeconfig.cache

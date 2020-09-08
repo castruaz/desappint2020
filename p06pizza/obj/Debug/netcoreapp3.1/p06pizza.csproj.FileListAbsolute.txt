@@ -1,0 +1,12 @@
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p06pizza/bin/Debug/netcoreapp3.1/p06pizza.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p06pizza/bin/Debug/netcoreapp3.1/p06pizza.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p06pizza/bin/Debug/netcoreapp3.1/p06pizza.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p06pizza/bin/Debug/netcoreapp3.1/p06pizza.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p06pizza/bin/Debug/netcoreapp3.1/p06pizza.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p06pizza/obj/Debug/netcoreapp3.1/p06pizza.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p06pizza/obj/Debug/netcoreapp3.1/p06pizza.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p06pizza/obj/Debug/netcoreapp3.1/p06pizza.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p06pizza/obj/Debug/netcoreapp3.1/p06pizza.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p06pizza/obj/Debug/netcoreapp3.1/p06pizza.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p06pizza/obj/Debug/netcoreapp3.1/p06pizza.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p06pizza/obj/Debug/netcoreapp3.1/p06pizza.genruntimeconfig.cache

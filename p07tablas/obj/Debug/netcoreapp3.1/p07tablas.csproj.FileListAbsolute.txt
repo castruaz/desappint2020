@@ -1,0 +1,12 @@
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p07tablas/bin/Debug/netcoreapp3.1/p07tablas.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p07tablas/bin/Debug/netcoreapp3.1/p07tablas.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p07tablas/bin/Debug/netcoreapp3.1/p07tablas.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p07tablas/bin/Debug/netcoreapp3.1/p07tablas.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p07tablas/bin/Debug/netcoreapp3.1/p07tablas.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p07tablas/obj/Debug/netcoreapp3.1/p07tablas.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p07tablas/obj/Debug/netcoreapp3.1/p07tablas.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p07tablas/obj/Debug/netcoreapp3.1/p07tablas.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p07tablas/obj/Debug/netcoreapp3.1/p07tablas.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p07tablas/obj/Debug/netcoreapp3.1/p07tablas.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p07tablas/obj/Debug/netcoreapp3.1/p07tablas.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p07tablas/obj/Debug/netcoreapp3.1/p07tablas.genruntimeconfig.cache
