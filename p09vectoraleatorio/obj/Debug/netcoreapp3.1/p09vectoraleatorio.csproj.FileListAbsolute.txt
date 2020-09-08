@@ -1,0 +1,12 @@
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p09vectoraleatorio/bin/Debug/netcoreapp3.1/p09vectoraleatorio.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p09vectoraleatorio/bin/Debug/netcoreapp3.1/p09vectoraleatorio.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p09vectoraleatorio/bin/Debug/netcoreapp3.1/p09vectoraleatorio.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p09vectoraleatorio/bin/Debug/netcoreapp3.1/p09vectoraleatorio.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p09vectoraleatorio/bin/Debug/netcoreapp3.1/p09vectoraleatorio.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p09vectoraleatorio/obj/Debug/netcoreapp3.1/p09vectoraleatorio.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p09vectoraleatorio/obj/Debug/netcoreapp3.1/p09vectoraleatorio.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p09vectoraleatorio/obj/Debug/netcoreapp3.1/p09vectoraleatorio.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p09vectoraleatorio/obj/Debug/netcoreapp3.1/p09vectoraleatorio.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p09vectoraleatorio/obj/Debug/netcoreapp3.1/p09vectoraleatorio.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p09vectoraleatorio/obj/Debug/netcoreapp3.1/p09vectoraleatorio.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p09vectoraleatorio/obj/Debug/netcoreapp3.1/p09vectoraleatorio.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p13vectormultiplica/bin/Debug/netcoreapp3.1/p13vectormultiplica.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p13vectormultiplica/bin/Debug/netcoreapp3.1/p13vectormultiplica.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p13vectormultiplica/bin/Debug/netcoreapp3.1/p13vectormultiplica.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p13vectormultiplica/bin/Debug/netcoreapp3.1/p13vectormultiplica.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p13vectormultiplica/bin/Debug/netcoreapp3.1/p13vectormultiplica.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p13vectormultiplica/obj/Debug/netcoreapp3.1/p13vectormultiplica.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p13vectormultiplica/obj/Debug/netcoreapp3.1/p13vectormultiplica.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p13vectormultiplica/obj/Debug/netcoreapp3.1/p13vectormultiplica.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p13vectormultiplica/obj/Debug/netcoreapp3.1/p13vectormultiplica.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p13vectormultiplica/obj/Debug/netcoreapp3.1/p13vectormultiplica.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p13vectormultiplica/obj/Debug/netcoreapp3.1/p13vectormultiplica.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p13vectormultiplica/obj/Debug/netcoreapp3.1/p13vectormultiplica.genruntimeconfig.cache

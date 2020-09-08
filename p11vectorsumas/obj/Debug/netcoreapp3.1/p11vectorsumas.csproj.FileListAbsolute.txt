@@ -1,0 +1,12 @@
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p11vectorsumas/bin/Debug/netcoreapp3.1/p11vectorsumas.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p11vectorsumas/bin/Debug/netcoreapp3.1/p11vectorsumas.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p11vectorsumas/bin/Debug/netcoreapp3.1/p11vectorsumas.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p11vectorsumas/bin/Debug/netcoreapp3.1/p11vectorsumas.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p11vectorsumas/bin/Debug/netcoreapp3.1/p11vectorsumas.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p11vectorsumas/obj/Debug/netcoreapp3.1/p11vectorsumas.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p11vectorsumas/obj/Debug/netcoreapp3.1/p11vectorsumas.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p11vectorsumas/obj/Debug/netcoreapp3.1/p11vectorsumas.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p11vectorsumas/obj/Debug/netcoreapp3.1/p11vectorsumas.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p11vectorsumas/obj/Debug/netcoreapp3.1/p11vectorsumas.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p11vectorsumas/obj/Debug/netcoreapp3.1/p11vectorsumas.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p11vectorsumas/obj/Debug/netcoreapp3.1/p11vectorsumas.genruntimeconfig.cache
