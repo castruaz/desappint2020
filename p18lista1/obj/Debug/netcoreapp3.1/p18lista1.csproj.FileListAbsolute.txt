@@ -1,0 +1,12 @@
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p18lista1/bin/Debug/netcoreapp3.1/p18lista1.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p18lista1/bin/Debug/netcoreapp3.1/p18lista1.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p18lista1/bin/Debug/netcoreapp3.1/p18lista1.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p18lista1/bin/Debug/netcoreapp3.1/p18lista1.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p18lista1/bin/Debug/netcoreapp3.1/p18lista1.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p18lista1/obj/Debug/netcoreapp3.1/p18lista1.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p18lista1/obj/Debug/netcoreapp3.1/p18lista1.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p18lista1/obj/Debug/netcoreapp3.1/p18lista1.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p18lista1/obj/Debug/netcoreapp3.1/p18lista1.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p18lista1/obj/Debug/netcoreapp3.1/p18lista1.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p18lista1/obj/Debug/netcoreapp3.1/p18lista1.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p18lista1/obj/Debug/netcoreapp3.1/p18lista1.genruntimeconfig.cache

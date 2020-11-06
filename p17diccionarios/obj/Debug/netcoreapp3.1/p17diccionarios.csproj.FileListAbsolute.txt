@@ -1,0 +1,12 @@
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p17diccionarios/bin/Debug/netcoreapp3.1/p17diccionarios.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p17diccionarios/bin/Debug/netcoreapp3.1/p17diccionarios.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p17diccionarios/bin/Debug/netcoreapp3.1/p17diccionarios.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p17diccionarios/bin/Debug/netcoreapp3.1/p17diccionarios.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p17diccionarios/bin/Debug/netcoreapp3.1/p17diccionarios.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p17diccionarios/obj/Debug/netcoreapp3.1/p17diccionarios.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p17diccionarios/obj/Debug/netcoreapp3.1/p17diccionarios.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p17diccionarios/obj/Debug/netcoreapp3.1/p17diccionarios.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p17diccionarios/obj/Debug/netcoreapp3.1/p17diccionarios.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p17diccionarios/obj/Debug/netcoreapp3.1/p17diccionarios.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p17diccionarios/obj/Debug/netcoreapp3.1/p17diccionarios.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p17diccionarios/obj/Debug/netcoreapp3.1/p17diccionarios.genruntimeconfig.cache

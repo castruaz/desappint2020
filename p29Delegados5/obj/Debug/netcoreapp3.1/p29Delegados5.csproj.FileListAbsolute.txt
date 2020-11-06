@@ -1,0 +1,12 @@
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p29Delegados5/bin/Debug/netcoreapp3.1/p29Delegados5.deps.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p29Delegados5/bin/Debug/netcoreapp3.1/p29Delegados5.runtimeconfig.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p29Delegados5/bin/Debug/netcoreapp3.1/p29Delegados5.runtimeconfig.dev.json
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p29Delegados5/bin/Debug/netcoreapp3.1/p29Delegados5.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p29Delegados5/bin/Debug/netcoreapp3.1/p29Delegados5.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p29Delegados5/obj/Debug/netcoreapp3.1/p29Delegados5.csprojAssemblyReference.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p29Delegados5/obj/Debug/netcoreapp3.1/p29Delegados5.AssemblyInfoInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p29Delegados5/obj/Debug/netcoreapp3.1/p29Delegados5.AssemblyInfo.cs
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p29Delegados5/obj/Debug/netcoreapp3.1/p29Delegados5.csproj.CoreCompileInputs.cache
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p29Delegados5/obj/Debug/netcoreapp3.1/p29Delegados5.dll
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p29Delegados5/obj/Debug/netcoreapp3.1/p29Delegados5.pdb
+/Users/castr/Google Drive/UAZ2020/ClasesAD2020/05.desappic/proyectos/p29Delegados5/obj/Debug/netcoreapp3.1/p29Delegados5.genruntimeconfig.cache
